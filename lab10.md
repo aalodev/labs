@@ -71,7 +71,7 @@ Ikkita string(bo'sh joylar bilan) o'qing va ikkinchi string birinchi stringga mo
 | programming |
 
 ## Problem 5
-Ikkita string o'qing str1 va str2(bo'sh joysiz).
+Ikkita string o'qing str1 va str2(bo'sh joysiz) va quyidagilarni chop eting.
 
 ### Input 
 - Uzunligi L1 (str1), L2 (str2) bo'lgan 2 ta string o'qing $(1 \le L1 \le 80)$ va $(1 \le L2 \le 10)$.
@@ -90,4 +90,31 @@ Ikkita string o'qing str1 va str2(bo'sh joysiz).
 | ------| ------ |
 | Helloworld | 10 1 |
 | low |
+
+## Problem 6
+Ikkita string o'qing str1(bo'sh joylar bilan) va str2(bo'sh joylarsiz). Quyida keltirilganlarni chop eting.
+
+### Input
+- Uzunligi L1(str1) bo'lgan string o'qing, keyin srt2 ni o'qing.$(1 \le L1 \le 100)$.
+
+### Output 
+- str1 tarkibida srt2 nechi marta takrorlanganini chop eting. 
+
+### Eslatma
+*AAA ning tarkibida AA bir marta, AAAA ning tarkida AA ikki marta takrorlandi deb hisoblang*
+
+### Na'muna 1 
+| Input | Output |
+| ------| ------ |
+| Prrogram prrogram | 2   |
+| rr|
+
+### Na'muna 2
+| Input | Output |
+| ------| ------ |
+| Helloworld | 1   |
+| low|
+
+## Problem 7
+
 
