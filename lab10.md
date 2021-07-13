@@ -70,3 +70,24 @@ Ikkita string(bo'sh joylar bilan) o'qing va ikkinchi string birinchi stringga mo
 | programming | 11 1 |
 | programming |
 
+## Problem 5
+Ikkita string o'qing str1 va str2(bo'sh joysiz).
+
+### Input 
+- Uzunligi L1 (str1), L2 (str2) bo'lgan 2 ta string o'qing $(1 \le L1 \le 80)$ va $(1 \le L2 \le 10)$.
+
+### Output 
+- Birinchi stringni uzunligini va birinchi string tarkibida ikkinchi string mavjud bo'lsa 1ni aks holda 0ni chop eting.
+
+### Na'muna 1 
+| Input | Output |
+| ------| ------ |
+| Hello | 5 0    |
+| world |
+
+### Na'muna 2
+| Input | Output |
+| ------| ------ |
+| Helloworld | 10 1 |
+| low |
+
