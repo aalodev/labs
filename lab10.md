@@ -116,5 +116,27 @@ Ikkita string o'qing str1(bo'sh joylar bilan) va str2(bo'sh joylarsiz). Quyida k
 | low|
 
 ## Problem 7
+Bitta butun n sonini o'qing. Keyin n ta string(bo'sh joylar bilan) o'qing. Uzunligi eng kichik string ni chop eting.
 
 
+### Input
+- Dastlab n ni kiriting, keyin n ta string o'qing. Stringlarning eng maksimal uzunligi L. $(1 \le L \le 80)$
+
+### Output
+- Uzunligi eng kichik bo'lgan stringni chop eting.
+
+### Na'muna 1 
+| Input | Output |
+| ------| ------ |
+| 4 | Good |
+| Program |  
+| Good|
+| This is string |  
+|language|
+
+## Problem 8
+
+
+
+ 
+ 
